@@ -1,0 +1,14 @@
+디비버 연결방법
+
+mySQL 등록 클릭
+
+Sever Host :  codevlab.kr 입력
+
+Database : fourbyte
+
+Username : fourbyte
+
+Password : 123456
+
+Driver properties 탭에서
+allowPublicKeyRetrieval 항목을 false에서 true로 변경
